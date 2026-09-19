@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 710 710" role="img" aria-labelledby="title desc">
+  <title id="title">DJF AIR ZONE</title>
+  <desc id="desc">DJF AIR ZONE logo</desc>
+  <defs>
+    <clipPath id="logo-circle">
+      <circle cx="355" cy="355" r="350"/>
+    </clipPath>
+  </defs>
+  <image href="logo-originale.jpg" x="0" y="-420" width="710" height="1536" preserveAspectRatio="none" clip-path="url(#logo-circle)"/>
+</svg>
